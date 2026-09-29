@@ -1,0 +1,6002 @@
+[
+  {
+    "code": "switch (z) { case 3: if (flag > 6) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int status = 59; while (count != status) { count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (1) { n++; if (n > 1) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int m = 0; while (m < 9) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (i = 0; i < 215; i++) { if (i % 2 == 0) continue; flag++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (k) { case 4: return 72; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (m == 10) { acc += 3; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (k < 8) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (m > 6) { output = 70; } else { output = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (index = 0; index < 15; index++) { for (status = 0; status < 28; status++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (i) { case 518: return 42; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (y == 511) { switch (data) { case 79: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (temp <= 325) { temp += 33; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (i = 0; i < 729; i++) { for (sum = 0; sum < 39; sum++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (value) { value = 5; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (value > 3) { res = 84; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (y) { case 43: while (result > 0) { result--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int j = 0; while (j < 11) { j++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (m = 0;;m++) { if (m >= 0) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (m > 875 && status < 88) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (n = 0; n < 63; n++) { result += n; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int status = 80; while (k != status) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int total = 0; for (y = 0; y < 106; y++) { total += y; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (value = 0; value < 10; value++) { while (acc > 0) { acc--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int sum = 20; switch (x) { case 95: sum = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (j) { case 552: return 30; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (y > 5) { for (val = 0; val < 13; val++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (y) { case 2: return 99; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (value > 837) { if (data < 95) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (index >= 392) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int temp = 36; switch (temp) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (index = 0; index < 55; index++) { if (index == 36) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (i = 0; i < 50; i++) { for (total = 0; total < 67; total++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (m) { case 191: status = m + 58; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (m = 0; m < 0; m++) { while (acc > 0) { acc--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (count < 844) { status += count; count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (index = 1; index <= 0; index++) { data = data * index; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int value = 11; switch (value) { case 35: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (temp < 1) { if (total > 64) break; temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (m = 0; m < 83; m++) { for (flag = 0; flag < 92; flag++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (m = 0; m < 6; m++) { switch (data) { case 14: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (y > 92 && output < 70) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (temp > 836) { for (acc = 0; acc < 43; acc++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (index > 0) { switch (result) { case 107: break; } index--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (k >= 849) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (temp < 93) { status += temp; temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (count <= 72) { res--; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (index = 0; index < 956; index++) { while (status > 0) { status--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (x = 1; x <= 294; x++) { sum = sum * x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (k) { case 49: result = 0; break; case 91: result = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (value) { case 767: total *= 2; break; case 8: total /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (z = 1; z <= 2; z++) { status = status * z; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (j) { case 7: acc = j + 91; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (i) { case 75: for (res = 0; res < 15; res++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (i = 0; i < 7; i++) { if (i == 21) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (m > 6) { for (res = 0; res < 85; res++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int n = 712; for (res = 0; res < n; res++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (m) { case 97: res++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (j) { case 9: status *= 2; break; case 14: status /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (m >= 701) { m -= 98; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (value) { case 438: sum = 0; break; case 46: sum = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int data = 0; if (n != data) { return 82; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (temp) { case 166: result++; case 54: result--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (k > 0) { data *= 2; k--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (n != 416) { data = n * 73; n++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (x) { case 45: return 90; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (y <= 0) { y += 2; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (j = 0; j < 4; j++) { total += j; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (m = 0; m < 428; m++) { if (m % 2 == 0) continue; result++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (count = 0; count < 2; count++) { while (acc > 0) { acc--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (m = 0; m < 8; m++) { if (m % 2 == 0) continue; val++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (i = 0; i < 13; i++) { data += i; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (value = 0; value <= 1; value++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int k = 714; if (k > 80) { res = 80; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (i > 2) { for (acc = 0; acc < 37; acc++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (temp == 418) { data += 40; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (i <= 88) { i += 38; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (temp > 37) { if (status < 41) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (m) { case 11: break; default: output = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (count = 681; count > 0; count--) { acc--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (z != 6) { acc = z * 40; z++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (n < 8) { n++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (k < 3) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (temp = 55; temp > 0; temp--) { data--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (i) { case 572: return 56; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (count) { case 481: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (i = 0; i < 495; i += 2) { status *= i; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (n < 5) { for (flag = 0; flag < 63; flag++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (k != 85 || data == 8) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (j) { case 366: total++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (index) { case 0: acc = 10; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (m) { case 6: for (data = 0; data < 41; data++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (y) { case 625: result *= 2; break; case 29: result /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (i) { case 72: if (status > 96) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (count > 6) { acc = 51; } else { acc = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (temp = 0; temp < 9; temp++) { switch (sum) { case 93: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (count = 1; count <= 849; count++) { total = total * count; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (value < 4) { res += value; value++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (value) { case 6: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (temp < 6) { output += temp; temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (index) { case 667: sum *= 2; break; case 76: sum /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (1) { z++; if (z > 385) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "total = (index > 481) ? 28 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (temp) { case 39: result++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (m = 0; m < 76; m++) { switch (output) { case 53: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (z != 1 || status == 3) { z++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (temp < 19) { for (status = 0; status < 34; status++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (value = 0; value < 100; value++) { result *= value; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (count = 0; count < 65; count++) { val += count; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (value > 6) { for (acc = 0; acc < 90; acc++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (count == 99) { switch (total) { case 87: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (temp != 9) { status = temp * 21; temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (z > 47) { for (sum = 0; sum < 91; sum++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (!y) { y = 21; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (n = 85; n < 5; n += 85) { sum += n; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (temp = 0; temp < 960 && total > 0; temp++) { total--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int k = 27; switch (k) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (y != 213 || acc == 97) { y++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (j < 295) { return 22; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int output = 50; switch (i) { case 4: output = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (j = 0; j < 14; j++) { if (result == 28) { break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (index != 529) { total = index * 16; index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (index) { case 424: while (acc > 0) { acc--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (z > 885 && total < 92) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (x) { case 8: while (data > 0) { data--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (y) { y--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (n == 48) { return 37; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int result = 0; if (i != result) { return 90; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (n = 0; n <= 3; n++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (value) { case 2: case 59: acc = 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (n = 9; n >= 0; n -= 25) { total++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (count = 0; count <= 654; count++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (count) { count--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (!index) { status = 11; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "total = (temp > 25) ? 45 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (y = 81; y < 10; y += 81) { sum += y; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 5: return 81; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (value) { case 133: acc = 76; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (index) { case 22: return 53; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (1) { k++; if (k > 157) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (i < 45) { return 45; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (index) { case 8: result = 0; break; case 44: result = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int y = 960; while (y > 0) { y--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (value) { case 20: return 63; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (k = 0; k < 425; k++) { for (total = 0; total < 87; total++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (k > 6) { sum = k * 56; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (x > 53) { x--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (value = 0; value < 7; value++) { if (value == 63) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int status = 733; if (n != status) { return 3; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (count = 0; count < 916; count++) { switch (data) { case 74: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (index = 0; index < 7; index++) { if (index % 2 == 0) continue; val++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (value = 0; value < 49; value++) { if (value % 2 == 0) continue; result++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (z) { case 10: for (total = 0; total < 84; total++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (y == 502) { total += 24; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int total = 716; for (m = 0; m < 90; m++) { total--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (k < 42 && status > 0) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (j) { case 0: for (status = 0; status < 9; status++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (x = 0; x < 4; x++) { for (status = 0; status < 72; status++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (count = 0; count < 966 && val > 0; count++) { val--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (m) { case 308: status = 4; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (j) { case 794: while (result > 0) { result--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int total = 8; if (temp != total) { return 80; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (k > 26) { sum = 86; } else { sum = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (j = 1; j <= 7; j++) { val = val * j; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (temp) { temp--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int flag = 48; switch (index) { case 50: flag = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (value = 0;;value++) { if (value >= 90) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int result = 47; switch (i) { case 94: result = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int k = 0; while (k > 0) { k--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int y = 29; switch (y) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (y = 0; y < 91; y++) { if (result == 29) { break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (count) { case 683: break; case 2: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (m) { case 8: flag = m + 44; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (n < 77) { switch (flag) { case 60: n++; break; } }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (x) { x = 86; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (n > 0) { switch (status) { case 490: break; } n--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (i != 3 || flag == 19) { i++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (index) { case 4: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (!temp) { val = 2; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (j > 0) { total *= 2; j--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int m = 0; while (m < 308) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (y != 242) { sum = y * 65; y++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (z != 419) { flag = z * 19; z++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int acc = 98; while (count != acc) { count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (m = 1; m <= 81; m++) { output = output * m; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int status = 0; for (x = 0; x < 3; x++) { status += x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (x) { x--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (y != 17) { val = y * 75; y++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (z > 80) { if (flag < 23) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (n > 30 && acc < 7) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (m < 0) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (x) { case 305: data++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int count = 73; switch (count) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (k = 0; k < 8; k++) { for (val = 0; val < 77; val++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int temp = 87; switch (temp) { case 20: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (y > 253) { y--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (i) { case 4: val++; case 73: val--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (z < 584) { switch (output) { case 41: z++; break; } }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (;j < 47;) { j++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int i = 0; while (i < 634) { i++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (temp = 0; temp < 684 && acc > 0; temp++) { acc--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (y == 8) { acc += 100; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (y = 0; y < 6; y++) { if (y == 94) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (temp >= 59) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (index) { case 4: res++; case 99: res--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int acc = 0; for (n = 0; n < 678; n++) { acc += n; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (n == 0) { data += 94; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int z = 0; if (z == 2) { total++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (z = 0; z < 10; z++) { while (total > 0) { total--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int count = 7; switch (count) { case 96: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (value <= 0) { result--; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (value) { case 8: data++; case 25: data--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int temp = 0; while (temp < 3) { temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (x != 556) { output = x * 89; x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (count > 0) { data *= 2; count--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (index) { case 2: status++; case 50: status--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (!index) { index = 42; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (m < 23) { return 68; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int index = 68; if (index > 84) { res = 84; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (x < 33) { if (status > 86) break; x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (j) { case 805: flag = 70; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (y = 0;;y++) { if (y >= 229) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (x < 869 && status > 0) { x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (x < 10) { while (res > 0) { res--; } x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (y = 0; y < 2; y++) { for (data = 0; data < 58; data++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int flag = 64; for (count = 0; count < 58; count++) { flag--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (1) { count++; if (count > 528) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (count > 513) { result = count * 92; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (k >= 659) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (x == 308) { return 62; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (y > 339) { for (status = 0; status < 84; status++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int count = 0; while (count < 4) { count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (index != 70 || acc == 0) { index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (y != 273) { total = y + 31; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int i = 91; switch (i) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int total = 87; for (x = 0; x < 36; x++) { total--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (z = 14; z < 299; z += 14) { sum += z; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (i > 41) { for (val = 0; val < 75; val++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (count != 58) { sum = count * 29; count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (count < 845) { while (flag > 0) { flag--; } count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (index < 8 && val > 0) { index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (j > 0) { total *= 2; j--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (m > 5) { res = 22; } else { res = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (temp) { case 0: return 33; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (k) { case 124: while (val > 0) { val--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (value = 1; value <= 715; value++) { output = output * value; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (j != 828) { status = j + 2; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int res = 58; while (count != res) { count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int sum = 297; if (n != sum) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (z) { case 508: for (status = 0; status < 67; status++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (i) { case 374: case 72: res = 374; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (index) { case 82: for (flag = 0; flag < 13; flag++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (y = 0;;y++) { if (y >= 61) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (z <= 168) { z += 90; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (temp <= 8) { temp += 58; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (i != 330 || data == 73) { i++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (x < 755) { return 57; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int sum = 3; if (j != sum) { return 53; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int res = 2; if (y != res) { return 37; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (i) { case 4: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (j) { case 65: acc++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (value) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (y >= 174) { y -= 90; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int res = 46; while (m != res) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 9: res *= 2; break; case 67: res /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (z < 361) { return 21; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (y < 45) { status += y; y++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int x = 53; switch (x) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int status = 538; for (m = 0; m < 69; m++) { status--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int x = 0; if (x == 118) { data++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (j) { case 847: return 66; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (y >= 976) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (k != 157) { status = k * 46; k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (x > 96) { res = 37; } else { res = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int flag = 65; switch (k) { case 608: flag = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (value != 24 || acc == 89) { value++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (n < 268) { if (val > 35) break; n++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (i > 6) { flag = 6; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (z < 2) { for (total = 0; total < 9; total++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (count = 0; count < 86; count++) { if (sum == 85) { break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (value = 50; value < 861; value += 50) { sum += value; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int x = 50; switch (x) { case 80: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (count != 185) { res = count + 2; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (k != 311) { res = k + 12; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (y) { y = 27; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (x = 0; x < 2; x++) { result *= x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 145: break; case 57: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (m > 0) { flag *= 2; m--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (temp > 8 && output < 18) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (x = 0; x < 1; x++) { acc += x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "acc = (k > 7) ? 10 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (n) { case 4: data = 16; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (value = 0; value < 254 && total > 0; value++) { total--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (value < 2) { while (acc > 0) { acc--; } value++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (n != 9) { data = n * 92; n++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (count = 0; count < 258; count++) { for (val = 0; val < 1; val++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (k = 16; k >= 0; k -= 36) { val++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (count < 473) { flag += count; count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (n = 0; n < 769; n++) { while (res > 0) { res--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int k = 0; while (k < 52) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (m != 9) { output = m * 82; m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (m != 71 || status == 10) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (j = 941; j > 0; j--) { output--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (k) { k--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (k < 4) { switch (val) { case 96: k++; break; } }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int m = 0; while (m < 10) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (count = 0; count < 37 && total > 0; count++) { total--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (x = 0; x <= 64; x++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (m = 0; m < 4; m++) { while (acc > 0) { acc--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (x) { case 644: for (total = 0; total < 85; total++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (k) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (n < 27 && res > 0) { n++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int y = 79; switch (y) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (k > 0) { data *= 2; k--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (value < 39) { flag += value; value++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (z = 0; z < 62; z += 2) { sum *= z; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int n = 88; while (n > 0) { n--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (x < 347) { for (total = 0; total < 6; total++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (value <= 2) { value += 56; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (count) { case 618: acc++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int sum = 32; if (count != sum) { return 94; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int k = 108; for (sum = 0; sum < k; sum++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (temp) { temp--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (y) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (x < 109) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (count = 0; count < 6 && result > 0; count++) { result--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (z = 0;;z++) { if (z >= 12) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "sum = (n > 76) ? 96 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int result = 315; if (temp != result) { return 59; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (temp) { case 5: if (data > 56) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (m) { case 7: val *= 2; break; case 8: val /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (temp) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (count < 8) { while (total > 0) { total--; } count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (1) { value++; if (value > 192) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (count) { case 39: return 38; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (index > 6) { if (acc < 8) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (n <= 7) { val--; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int count = 4; switch (count) { case 53: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (y > 0) { acc *= 2; y--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (!z) { output = 379; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (i) { case 248: while (output > 0) { output--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (temp == 8 || data != 63) { temp = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (y = 0; y < 5; y++) { switch (output) { case 43: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (y = 0; y < 492; y++) { val += y; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int i = 0; if (i == 1) { total++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (k = 66; k < 10; k += 66) { sum += k; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (x = 0; x <= 45; x++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (value = 0;;value++) { if (value >= 40) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (x > 71) { while (status > 0) { status--; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (index < 6) { if (data > 69) break; index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (n) { case 5: data = 0; break; case 10: data = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (j) { case 892: return 95; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int value = 6; while (value > 0) { value--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (z = 0; z < 0; z++) { if (z % 2 == 0) continue; flag++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (x) { x = 984; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (i > 6) { sum = 53; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (x < 83) { x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (;z < 664;) { z++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (m == 13) { switch (acc) { case 27: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int index = 1; while (index > 0) { index--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (count = 0;;count++) { if (count >= 25) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (x = 0;;x++) { if (x >= 830) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (x >= 9) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int data = 79; if (z != data) { return 69; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (index) { case 2: val = 0; break; case 5: val = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (n = 0; n < 895; n += 2) { sum *= n; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 96: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (z) { case 10: status *= 2; break; case 53: status /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (index <= 4) { result--; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int val = 4; switch (k) { case 1: val = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (temp < 98) { while (flag > 0) { flag--; } temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (n < 23) { while (acc > 0) { acc--; } n++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (y > 0) { switch (total) { case 584: break; } y--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (x) { case 100: break; case 88: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (j) { case 2: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (z) { case 451: while (output > 0) { output--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (temp = 0; temp < 61; temp++) { if (temp % 2 == 0) continue; val++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (count < 3) { acc += count; count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (k = 1; k <= 564; k++) { data = data * k; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int total = 14; if (j != total) { return 42; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (i) { case 842: while (result > 0) { result--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (i > 0) { switch (flag) { case 72: break; } i--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (m = 0; m < 2; m++) { while (output > 0) { output--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (j = 0; j < 0; j++) { acc += j; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (y = 0; y < 8; y++) { if (y % 2 == 0) continue; acc++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (z <= 0) { flag--; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (temp) { case 462: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int i = 9; if (i > 82) { result = 82; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (m) { m--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (index >= 0) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (index != 8) { val = index * 28; index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (i == 402) { return 95; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (value < 41) { for (res = 0; res < 94; res++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int j = 420; while (j > 0) { j--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 8: break; case 84: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (m > 0) { switch (acc) { case 6: break; } m--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int value = 0; if (value == 813) { res++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (m == 83) { switch (res) { case 54: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (temp > 24 && acc < 30) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (count < 3) { count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (m = 0; m < 9; m += 2) { status *= m; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (i) { case 90: return 0; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (i) { case 429: if (status > 20) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (k = 0; k < 491; k++) { result *= k; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (!j) { output = 239; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (m) { case 889: return 35; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (count) { case 1: return 21; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int z = 62; switch (z) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (count == 83 || flag != 95) { count = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (x = 0; x < 10; x++) { val += x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (!count) { result = 557; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (j < 18) { for (sum = 0; sum < 61; sum++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (k) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (z = 96; z > 0; z--) { res--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (!i) { acc = 6; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (value > 9) { if (res < 11) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int n = 85; switch (n) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (z > 1) { res = 11; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "res = (k > 5) ? 90 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int value = 1; for (output = 0; output < value; output++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (value) { case 243: data = 0; break; case 48: data = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (i = 55; i < 757; i += 55) { sum += i; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int x = 0; while (x < 33) { x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (index == 2) { return 11; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (y < 360) { for (acc = 0; acc < 44; acc++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int res = 49; switch (j) { case 2: res = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (n < 13) { n++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (z = 0; z < 59; z++) { while (flag > 0) { flag--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (i == 7) { res += 16; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (z) { case 1: total = 0; break; case 39: total = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (!n) { n = 918; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (temp > 84) { temp--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (i = 1; i <= 84; i++) { sum = sum * i; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (count > 14) { if (val < 5) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (value > 0) { switch (result) { case 923: break; } value--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (m < 50 && val > 0) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (n > 858) { if (output < 94) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int value = 4; for (acc = 0; acc < value; acc++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (m < 303) { for (sum = 0; sum < 50; sum++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (z != 93) { result = z * 5; z++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int y = 5; for (sum = 0; sum < y; sum++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (m = 6; m >= 0; m -= 51) { output++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (y) { case 44: res *= 2; break; case 84: res /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (i = 1; i <= 851; i++) { flag = flag * i; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (k = 0; k < 7; k++) { if (output == 39) { break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (count < 9) { while (total > 0) { total--; } count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int j = 0; while (j < 739) { j++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (x <= 21) { x += 74; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (count < 835) { for (output = 0; output < 93; output++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int status = 58; switch (count) { case 0: status = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (x) { x = 293; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int n = 984; while (n > 0) { n--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (x > 552) { if (sum < 74) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int x = 18; switch (x) { case 82: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (index) { case 0: case 11: status = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (n = 0; n < 64; n++) { acc += n; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int status = 36; switch (i) { case 862: status = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (j) { case 990: for (result = 0; result < 91; result++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (x <= 764) { x += 91; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int data = 0; for (temp = 0; temp < 791; temp++) { data += temp; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (y == 577) { return 52; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (count > 0 && flag < 58) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (;j < 10;) { j++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (value) { case 10: case 66: result = 10; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (n <= 4) { n += 11; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int z = 0; if (z == 96) { total++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (value < 46) { while (flag > 0) { flag--; } value++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (k >= 4) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (k) { case 7: output = k + 18; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (value) { case 5: status = 51; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (n) { case 693: flag++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (j) { case 61: result *= 2; break; case 68: result /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (index != 665) { acc = index + 52; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (temp) { temp = 874; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (index < 975) { if (output > 27) break; index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int res = 17; while (x != res) { x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (!z) { output = 534; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int flag = 46; switch (temp) { case 42: flag = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int res = 410; if (y != res) { return 75; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (y) { case 4: return 60; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (i == 91) { return 10; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (temp < 6) { if (acc > 45) break; temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (value != 998 || total == 100) { value++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (k) { k = 224; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int output = 0; for (j = 0; j < 53; j++) { output += j; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int flag = 4; for (m = 0; m < 45; m++) { flag--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (value == 82) { val += 100; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "flag = (k > 249) ? 76 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (z = 0; z <= 0; z++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 523: flag = 4; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int m = 496; while (m > 0) { m--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (value < 349 && flag > 0) { value++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (j = 0; j < 75; j++) { for (val = 0; val < 8; val++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int res = 22; if (temp != res) { return 16; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (temp) { case 7: for (acc = 0; acc < 39; acc++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (m > 0) { result *= 2; m--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (m <= 9) { m += 56; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (value < 228) { return 96; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (n > 191) { status = n * 55; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int status = 40; for (k = 0; k < 37; k++) { status--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (value = 0; value < 87; value++) { if (value == 69) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (value < 991) { for (status = 0; status < 28; status++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (y = 0;;y++) { if (y >= 83) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (k) { case 9: while (total > 0) { total--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (i) { i = 2; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (temp < 77) { acc += temp; temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (m >= 59) { m -= 8; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (y == 3) { return 67; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (n) { case 295: if (status > 42) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int count = 48; for (flag = 0; flag < count; flag++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int k = 750; while (k > 0) { k--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (value < 6) { for (status = 0; status < 50; status++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (x >= 69) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (i > 90) { i--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (x = 0; x < 699; x++) { output += x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (i) { i = 98; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int j = 0; while (j < 18) { j++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (i) { case 6: val *= 2; break; case 5: val /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (index != 6) { sum = index * 80; index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int count = 93; switch (count) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (1) { index++; if (index > 652) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (index) { case 22: if (acc > 30) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (k > 932 && sum < 45) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int k = 49; switch (k) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (value > 157) { data = 87; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (n = 0; n < 26 && acc > 0; n++) { acc--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (count) { case 360: return 54; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (1) { index++; if (index > 649) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (index) { case 7: break; case 47: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (j <= 696) { j += 79; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (m < 0) { if (output > 12) break; m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int status = 12; switch (x) { case 694: status = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (k < 233) { return 37; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int y = 97; for (flag = 0; flag < y; flag++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (1) { index++; if (index > 141) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int z = 5; while (z > 0) { z--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (j = 0; j < 28; j += 2) { result *= j; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (count > 0) { status *= 2; count--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (n == 6) { acc += 42; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (m = 1; m <= 611; m++) { status = status * m; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (z) { case 4: break; case 11: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (n == 9) { switch (data) { case 46: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (index) { case 854: break; case 34: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (count > 333) { result = 59; } else { result = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (n) { n = 4; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (index < 8) { index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (n) { n--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (z) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (x) { case 21: break; case 82: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int z = 58; while (z > 0) { z--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (z) { case 607: status = 25; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (k) { case 9: output++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (m < 7) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int value = 6; if (value > 20) { sum = 20; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (value < 196) { while (acc > 0) { acc--; } value++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int i = 2; for (output = 0; output < i; output++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (count = 0; count <= 100; count++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (temp = 0; temp <= 10; temp++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (y > 0) { switch (data) { case 162: break; } y--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (value >= 628) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (z) { case 9: break; default: sum = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (k > 31) { k--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (x < 2 && status > 0) { x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (z < 71) { return 21; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (z) { case 8: total++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (index == 618 || data != 95) { index = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (n = 0; n < 892; n += 2) { flag *= n; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (j = 0; j < 5; j++) { res += j; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (i = 0; i < 97; i += 2) { data *= i; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (count) { case 394: data *= 2; break; case 56: data /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (m = 0; m < 380; m++) { while (flag > 0) { flag--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (index > 89 && total < 14) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (n < 42) { switch (val) { case 16: n++; break; } }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (i = 79; i < 305; i += 79) { sum += i; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (temp = 490; temp > 0; temp--) { res--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (y > 0) { flag *= 2; y--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (m) { case 930: sum = 0; break; case 47: sum = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (count < 70) { total += count; count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 9: sum++; case 32: sum--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (x > 9) { sum = x * 80; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (x > 0) { switch (res) { case 50: break; } x--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (i != 4) { result = i + 97; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int val = 36; switch (x) { case 3: val = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (y = 0; y < 413; y++) { if (y == 69) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (index = 1; index <= 281; index++) { data = data * index; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (n >= 1) { n -= 52; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int n = 0; while (n < 1000) { n++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (;i < 947;) { i++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (index) { case 694: total++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (k) { case 1000: if (sum > 22) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (index != 557 || total == 87) { index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (index > 5) { if (val < 24) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (value = 0; value < 19; value++) { if (value % 2 == 0) continue; sum++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (x = 0; x < 3; x++) { while (res > 0) { res--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (j = 59; j >= 0; j -= 62) { sum++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (n = 0; n < 72 && output > 0; n++) { output--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (temp = 0; temp < 993; temp++) { result *= temp; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (m == 865) { switch (data) { case 63: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (count) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (i > 9) { data = i * 81; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (j) { case 1: acc = 35; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int m = 1; switch (m) { case 12: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (x == 374) { return 93; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (temp == 8) { switch (flag) { case 52: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (index > 198) { for (sum = 0; sum < 5; sum++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (i) { case 0: for (status = 0; status < 91; status++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int res = 54; for (j = 0; j < 59; j++) { res--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (index > 726) { if (status < 5) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (k < 4) { switch (sum) { case 29: k++; break; } }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (count = 1; count <= 1; count++) { output = output * count; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (index) { case 459: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int temp = 63; while (temp > 0) { temp--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (count = 0; count < 2; count++) { if (count % 2 == 0) continue; status++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (j) { j--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int flag = 79; switch (j) { case 45: flag = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (n != 43 || flag == 63) { n++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (k) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (i = 0; i < 3; i++) { for (val = 0; val < 85; val++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (n < 99) { for (flag = 0; flag < 56; flag++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (k) { case 357: if (data > 80) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (m = 26; m >= 0; m -= 22) { total++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (z == 84) { result += 49; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (n == 866) { switch (acc) { case 97: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (n < 0) { n++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (x != 991) { sum = x * 80; x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (count > 483) { if (acc < 68) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int x = 0; while (x < 976) { x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (x = 0; x < 2; x++) { while (sum > 0) { sum--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (y) { case 242: result++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (temp) { case 10: while (val > 0) { val--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (index = 93; index < 0; index += 93) { sum += index; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (k > 985) { data = k * 29; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (x < 46) { return 38; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (index) { case 79: res = 0; break; case 13: res = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (!index) { index = 774; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "data = (temp > 8) ? 52 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (count = 1; count <= 4; count++) { status = status * count; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (;count < 666;) { count++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (k = 26; k < 869; k += 26) { sum += k; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (m >= 7) { m -= 1; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int temp = 0; if (temp == 26) { res++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (i > 4) { status = 17; } else { status = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (index) { case 710: break; default: output = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (z = 0; z < 204; z++) { for (status = 0; status < 43; status++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (i >= 9) { i -= 52; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (y == 71) { return 38; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (value < 674 && acc > 0) { value++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (y < 4) { for (status = 0; status < 27; status++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (x) { case 139: return 13; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (n = 0;;n++) { if (n >= 0) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (index = 0; index < 7; index++) { while (output > 0) { output--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (i < 7) { for (res = 0; res < 36; res++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (x <= 207) { x += 32; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (j) { j = 232; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "total = (j > 2) ? 23 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (x) { case 75: case 72: res = 75; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (i < 753) { switch (status) { case 26: i++; break; } }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (y != 78 || result == 27) { y++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (y) { case 491: return 76; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (x > 0) { flag = 30; } else { flag = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "status = (z > 660) ? 66 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (j > 783) { for (total = 0; total < 2; total++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (index = 736; index >= 0; index -= 81) { total++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (m > 8) { acc = m * 6; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int temp = 10; if (temp > 51) { total = 51; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int y = 0; if (y == 264) { data++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (1) { n++; if (n > 56) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (i < 774) { if (status > 36) break; i++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (z) { case 14: case 54: sum = 14; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int k = 0; while (k < 949) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (y) { case 536: return 46; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (z < 65) { return 49; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (i) { case 59: data++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (index) { case 31: return 1; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (k = 0; k < 79; k++) { if (acc == 65) { break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (y) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (k) { case 844: break; case 36: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int result = 34; for (count = 0; count < 45; count++) { result--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (1) { n++; if (n > 110) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (x != 3 || acc == 32) { x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (k = 0; k < 2; k++) { result *= k; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int j = 0; if (j == 10) { acc++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (j = 0;;j++) { if (j >= 872) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (m) { case 660: while (status > 0) { status--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (index < 241) { for (flag = 0; flag < 75; flag++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (count) { case 54: while (val > 0) { val--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int index = 69; switch (index) { case 27: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (temp) { case 54: break; default: res = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (m) { case 23: case 62: res = 23; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (y == 98) { switch (res) { case 8: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (value > 0) { switch (sum) { case 5: break; } value--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (count) { case 510: break; default: flag = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (k > 46) { while (flag > 0) { flag--; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (count > 98 && output < 53) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (!x) { status = 379; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (1) { m++; if (m > 93) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (count = 0; count < 567; count += 2) { sum *= count; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (count) { case 73: while (val > 0) { val--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (x = 0; x <= 2; x++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (m) { case 777: break; case 10: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (z < 3) { return 95; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (j = 19; j > 0; j--) { total--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (temp = 0; temp < 12; temp++) { for (data = 0; data < 75; data++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (temp = 0;;temp++) { if (temp >= 453) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (m > 919) { acc = m * 86; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int k = 9; while (k > 0) { k--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int k = 28; switch (k) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (n > 306) { sum = 47; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (x <= 38) { x += 93; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (!j) { result = 606; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int y = 396; for (total = 0; total < y; total++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (x > 9) { res = 63; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (z > 89 && res < 82) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (value = 0; value < 10 && val > 0; value++) { val--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (z = 0; z < 88; z++) { if (z % 2 == 0) continue; flag++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (k) { case 9: status = 0; break; case 70: status = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (temp = 1; temp <= 4; temp++) { flag = flag * temp; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (j > 3) { for (res = 0; res < 34; res++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (!temp) { temp = 861; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (count = 94; count < 33; count += 94) { sum += count; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (m = 0; m <= 32; m++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (y) { y--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (index) { case 324: acc++; case 25: acc--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (z = 0; z < 97; z++) { if (z == 45) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int status = 0; for (value = 0; value < 10; value++) { status += value; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (count = 0; count < 261; count += 2) { output *= count; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (!j) { total = 549; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (count != 530 || sum == 20) { count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (count > 0) { switch (status) { case 89: break; } count--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (n = 0; n < 84; n++) { if (n == 52) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (count == 23) { switch (res) { case 62: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (n) { case 8: output = 0; break; case 9: output = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int n = 7; for (val = 0; val < n; val++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (k = 0; k < 69; k++) { sum += k; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (z < 6) { while (result > 0) { result--; } z++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (j = 0; j < 675; j++) { while (flag > 0) { flag--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (1) { k++; if (k > 638) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (index < 0) { if (total > 76) break; index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (n = 1; n <= 69; n++) { status = status * n; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 861: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (index < 4) { while (status > 0) { status--; } index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (n == 5) { switch (output) { case 27: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (x = 76; x < 590; x += 76) { sum += x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (1) { n++; if (n > 46) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (temp < 2) { while (sum > 0) { sum--; } temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (j) { case 419: while (result > 0) { result--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (value > 4) { value--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (m != 92 || sum == 6) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (m) { case 73: if (status > 71) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (z) { case 7: break; case 41: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (value > 0) { switch (result) { case 16: break; } value--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (x = 0; x < 5; x++) { result *= x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (value >= 1000) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (i) { case 35: total = i + 52; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (n = 0; n < 4; n++) { switch (res) { case 97: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (n) { case 10: break; case 60: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (n != 38) { result = n + 63; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (value) { case 10: output *= 2; break; case 32: output /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (m = 80; m > 0; m--) { total--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (n < 10) { if (output > 48) break; n++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int x = 0; while (x < 21) { x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (index) { case 0: while (val > 0) { val--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (m > 330) { m--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (n = 757; n >= 0; n -= 2) { flag++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int data = 221; for (temp = 0; temp < 24; temp++) { data--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (temp) { temp = 3; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (count < 41 && acc > 0) { count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (count = 0; count < 7; count += 2) { sum *= count; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int temp = 90; switch (temp) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (temp = 0; temp < 907; temp += 2) { flag *= temp; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int count = 2; for (acc = 0; acc < count; acc++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (temp >= 10) { temp -= 11; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (y = 0; y < 64; y++) { while (sum > 0) { sum--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (j = 0; j < 10; j++) { result *= j; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (index > 0) { switch (res) { case 60: break; } index--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (temp > 837) { while (sum > 0) { sum--; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (count > 0) { switch (flag) { case 10: break; } count--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (count = 26; count < 56; count += 26) { sum += count; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (count) { case 4: status++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (value) { case 569: break; case 11: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (k <= 3) { k += 54; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (i = 0; i < 4; i++) { result *= i; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (count) { case 37: while (data > 0) { data--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (count) { case 197: acc++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (n) { case 3: return 100; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (temp = 0; temp < 4; temp++) { result *= temp; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (j) { case 24: for (total = 0; total < 7; total++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (x = 0; x < 9; x++) { if (x % 2 == 0) continue; status++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (value = 0; value < 63; value++) { switch (total) { case 58: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (y) { y--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (!count) { count = 819; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int j = 387; while (j > 0) { j--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (y) { case 10: flag *= 2; break; case 78: flag /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (j = 0; j < 7; j += 2) { res *= j; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (z) { case 5: while (data > 0) { data--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (!value) { data = 602; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int index = 990; if (index > 10) { res = 10; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (value > 392) { while (output > 0) { output--; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (m == 762 || acc != 43) { m = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int res = 946; if (index != res) { return 46; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (x = 0; x < 881; x++) { result *= x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int n = 10; switch (n) { case 79: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (count >= 18) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (i > 0) { flag *= 2; i--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int total = 0; for (x = 0; x < 8; x++) { total += x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int temp = 464; switch (temp) { case 38: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (i = 42; i > 0; i--) { acc--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (m > 0) { switch (result) { case 879: break; } m--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (k < 19) { if (val > 69) break; k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int status = 2; if (x != status) { return 56; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (j) { case 70: if (flag > 79) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (m < 17 && acc > 0) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (x < 22) { while (result > 0) { result--; } x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 618: while (flag > 0) { flag--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (i <= 239) { acc--; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (y > 615) { while (total > 0) { total--; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (index > 42) { acc = 95; } else { acc = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (n) { case 4: for (sum = 0; sum < 93; sum++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (temp) { case 86: data++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (value) { case 10: status++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int m = 0; while (m < 55) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (n = 0; n < 36; n++) { if (n == 83) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int flag = 97; switch (k) { case 10: flag = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (y = 0; y < 77; y++) { if (y % 2 == 0) continue; status++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (y) { case 94: flag = 0; break; case 22: flag = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int m = 6; for (acc = 0; acc < m; acc++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (m = 0;;m++) { if (m >= 73) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (k = 0; k < 309; k++) { if (k % 2 == 0) continue; val++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (x < 291) { for (total = 0; total < 0; total++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int k = 100; switch (k) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (count < 10) { res += count; count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (z = 46; z < 411; z += 46) { sum += z; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (y) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (i) { case 75: if (status > 88) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int z = 614; while (z > 0) { z--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (;k < 63;) { k++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (n) { case 3: return 24; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (n) { n = 83; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (value) { case 106: total++; case 65: total--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (x = 0; x < 974; x++) { while (flag > 0) { flag--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (index) { case 21: return 23; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (z = 0; z < 58; z++) { if (z % 2 == 0) continue; total++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (value = 0; value < 69; value++) { result *= value; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (y > 658 && flag < 76) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (n > 53) { data = 3; } else { data = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (count < 13) { count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (y > 9 && flag < 59) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (m < 543 && flag > 0) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (k >= 5) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (i) { case 8: result *= 2; break; case 34: result /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int y = 11; if (y > 27) { flag = 27; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (value = 0; value < 3; value++) { switch (output) { case 94: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (index = 0;;index++) { if (index >= 9) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (y = 0; y < 18; y++) { output += y; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (count = 0; count < 6; count++) { flag += count; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (count) { case 64: break; case 58: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (y = 0; y < 9; y++) { if (output == 94) { break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (z) { case 57: result = z + 95; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (j > 9 && res < 8) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (k = 0; k < 458; k++) { if (k % 2 == 0) continue; status++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (index = 0; index < 997 && status > 0; index++) { status--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int value = 0; if (value == 132) { flag++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (n) { case 9: return 86; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (x < 4) { return 73; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int output = 91; if (i != output) { return 23; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int n = 0; if (n == 1) { sum++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (1) { z++; if (z > 974) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (x > 8) { x--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (value = 0; value < 36; value++) { for (result = 0; result < 6; result++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (i) { case 56: break; case 58: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (index = 0; index < 879; index++) { result *= index; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (m) { case 131: break; case 78: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (i > 0) { switch (total) { case 1: break; } i--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (i = 0; i < 6; i++) { result *= i; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (j = 1; j <= 325; j++) { val = val * j; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (m = 0; m < 35; m++) { if (m == 27) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (n > 54) { res = 81; } else { res = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (z) { case 86: val++; case 69: val--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int z = 0; while (z > 0) { z--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (k) { case 350: return 48; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (y = 0; y <= 6; y++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "flag = (k > 272) ? 47 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (k >= 582) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (value) { value = 891; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (j > 725) { if (flag < 87) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (z) { case 23: status = 0; break; case 44: status = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (z) { z--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (count < 6) { count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (count) { case 688: case 27: output = 688; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (temp <= 185) { temp += 57; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (x >= 2) { x -= 79; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (n > 28) { while (val > 0) { val--; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int index = 0; while (index < 20) { index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (j) { case 11: case 20: result = 11; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (;m < 234;) { m++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int y = 4; while (y > 0) { y--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (n) { case 937: break; case 16: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (n > 33) { n--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (;k < 36;) { k++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (n < 613) { for (status = 0; status < 10; status++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (k) { case 115: if (output > 63) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (count) { count--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int val = 77; for (k = 0; k < 53; k++) { val--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (m > 0) { switch (output) { case 849: break; } m--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (index < 703 && total > 0) { index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (y = 0; y < 2; y++) { while (acc > 0) { acc--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (m > 6) { if (data < 41) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (index < 0) { while (result > 0) { result--; } index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (x = 1; x >= 0; x -= 19) { val++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (m) { case 819: status++; case 8: status--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "data = (x > 88) ? 84 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (temp > 471) { acc = 72; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int y = 0; while (y < 74) { y++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (j) { case 334: return 76; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (m = 0; m < 540; m++) { while (result > 0) { result--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (x) { case 583: return 23; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (x < 120) { switch (result) { case 87: x++; break; } }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (k < 33) { switch (output) { case 31: k++; break; } }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (k) { case 7: return 58; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int i = 56; while (i > 0) { i--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (m = 0; m < 58; m += 2) { total *= m; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (;j < 45;) { j++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (temp = 0; temp < 9; temp++) { while (sum > 0) { sum--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (x > 0) { sum *= 2; x--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (index < 86) { for (result = 0; result < 29; result++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (n = 26; n < 983; n += 26) { sum += n; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (y) { case 782: case 80: data = 782; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (y > 219) { val = 40; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (i = 0; i < 688; i++) { if (status == 21) { break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (count) { case 73: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (index) { case 8: output = index + 74; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (count <= 3) { result--; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int value = 0; if (value == 35) { flag++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (k = 34; k > 0; k--) { acc--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (n = 0; n < 667; n++) { if (n % 2 == 0) continue; val++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (y >= 826) { y -= 83; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 9: return 55; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (count = 0; count < 3; count++) { if (result == 46) { break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (index) { case 2: while (result > 0) { result--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (temp = 10; temp >= 0; temp -= 88) { val++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (m > 136) { status = 38; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (1) { temp++; if (temp > 6) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (y) { case 670: val++; case 36: val--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int m = 27; switch (m) { case 52: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (count = 0;;count++) { if (count >= 258) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "val = (value > 60) ? 15 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int output = 25; while (j != output) { j++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int value = 79; switch (value) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (y >= 87) { y -= 67; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (i = 0; i < 668; i++) { for (res = 0; res < 25; res++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (x == 39) { switch (result) { case 79: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (y = 0; y < 339; y++) { if (y % 2 == 0) continue; val++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int sum = 21; for (m = 0; m < 62; m++) { sum--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (n > 598) { for (sum = 0; sum < 17; sum++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (value > 76) { for (total = 0; total < 37; total++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (value = 7; value < 2; value += 7) { sum += value; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (y) { case 899: break; case 14: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (x) { case 952: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (index > 88) { if (output < 100) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (j) { case 400: break; default: result = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (j) { case 72: if (output > 16) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (j = 0; j < 2; j++) { if (j % 2 == 0) continue; data++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (z <= 641) { res--; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (n > 1) { n--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int index = 57; switch (index) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (z = 0; z < 611; z++) { if (z == 16) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int output = 68; while (m != output) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int acc = 0; for (count = 0; count < 3; count++) { acc += count; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int res = 42; if (temp != res) { return 82; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (m) { case 4: acc = 51; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (z) { case 51: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (m < 97) { for (data = 0; data < 28; data++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (z < 7) { while (flag > 0) { flag--; } z++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int temp = 4; while (temp > 0) { temp--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (count > 7) { sum = count * 45; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (y) { case 996: return 22; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (temp <= 232) { temp += 4; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (m > 734) { val = 98; } else { val = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (;temp < 801;) { temp++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 9: return 71; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (value) { case 0: total++; case 76: total--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (k) { case 7: acc++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (j == 416) { total += 65; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (!temp) { sum = 41; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (j > 19) { val = 70; } else { val = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (n) { case 574: data = 65; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (count <= 1) { acc--; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (temp) { case 33: while (total > 0) { total--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (!temp) { temp = 88; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int acc = 86; switch (x) { case 8: acc = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (j >= 7) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (y = 358; y > 0; y--) { acc--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (count) { case 619: while (res > 0) { res--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (j > 6) { while (flag > 0) { flag--; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int z = 0; if (z > 20) { data = 20; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int output = 23; if (temp != output) { return 40; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (y = 78; y < 1; y += 78) { sum += y; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (index != 5 || output == 30) { index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (j < 481) { j++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (y) { case 729: break; default: output = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (x > 8) { val = 23; } else { val = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (;k < 969;) { k++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int y = 5; for (total = 0; total < y; total++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (n > 274) { res = 40; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (x) { case 4: return 30; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "output = (z > 4) ? 39 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int y = 10; while (y > 0) { y--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (i >= 593) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "status = (y > 447) ? 89 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (j == 113) { return 37; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (count) { case 58: while (val > 0) { val--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (j = 0; j < 951; j++) { if (j == 14) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (j < 19) { return 75; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (x != 335) { flag = x + 70; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (k = 0; k < 31; k++) { output += k; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (k > 561) { status = 69; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (y > 69) { val = 58; } else { val = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (k = 0; k < 1; k++) { for (acc = 0; acc < 76; acc++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (!m) { m = 577; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (i = 0;;i++) { if (i >= 687) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (index = 0; index < 8; index++) { while (output > 0) { output--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (m) { case 679: val = 96; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (z > 7) { z--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (value = 0; value < 488; value++) { if (value % 2 == 0) continue; output++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (temp > 0) { switch (flag) { case 43: break; } temp--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (m = 0; m < 38; m++) { if (m == 60) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int value = 19; switch (value) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int m = 8; while (m > 0) { m--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int sum = 402; if (index != sum) { return 74; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (z > 1) { z--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (j = 0; j < 229 && val > 0; j++) { val--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (m) { case 220: result = 0; break; case 53: result = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (j < 4) { if (status > 8) break; j++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (index < 965) { flag += index; index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (k = 1; k <= 8; k++) { output = output * k; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (z) { case 21: if (acc > 11) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (count > 36) { count--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (temp == 21 || val != 6) { temp = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (value = 0; value <= 12; value++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (x) { case 386: case 100: output = 386; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (x < 572) { output += x; x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (m != 42) { result = m + 73; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (i > 386) { res = 50; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (value) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (z = 0; z <= 88; z++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (i) { case 68: res++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int value = 12; for (sum = 0; sum < value; sum++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int acc = 0; for (y = 0; y < 10; y++) { acc += y; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (x) { case 337: while (output > 0) { output--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (j) { case 10: total *= 2; break; case 77: total /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (k > 0) { switch (acc) { case 0: break; } k--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (i = 0; i < 701; i++) { switch (res) { case 92: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int x = 96; switch (x) { case 34: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (count > 798) { status = 80; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (k) { case 44: break; default: data = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (n > 651) { for (status = 0; status < 65; status++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (n = 0; n < 45; n++) { result *= n; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (x == 583) { status += 2; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (value > 8) { for (status = 0; status < 49; status++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (temp > 233) { acc = 15; } else { acc = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (n = 0; n < 83; n++) { result *= n; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int flag = 42; for (i = 0; i < 20; i++) { flag--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int k = 0; while (k < 3) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (x == 31) { total += 92; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (i) { case 484: res = 40; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (z > 4) { data = 1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (x > 3 && total < 86) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (z > 881) { while (flag > 0) { flag--; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (i = 0; i < 2; i++) { result *= i; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 815: status = temp + 56; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (z < 40 && flag > 0) { z++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int m = 56; switch (m) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (!value) { value = 87; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (x > 9) { sum = 50; } else { sum = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (j) { case 814: break; case 51: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (value = 0; value < 3; value++) { switch (total) { case 79: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (temp != 7) { output = temp + 80; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (!value) { value = 19; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int j = 82; switch (j) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (temp >= 568) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (x > 0) { acc *= 2; x--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (z = 0; z < 308; z++) { status += z; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (index > 8) { res = 66; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (k < 497) { switch (result) { case 15: k++; break; } }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (m > 71 && result < 49) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (temp > 5) { res = temp * 72; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (value = 0;;value++) { if (value >= 0) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (n) { case 635: status++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int sum = 205; for (value = 0; value < 16; value++) { sum--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int n = 946; while (n > 0) { n--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (count != 90 || acc == 10) { count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (n == 345) { switch (status) { case 10: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (x < 624) { if (total > 58) break; x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (value = 0; value <= 59; value++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 47: break; case 61: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (m < 305 && result > 0) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (i) { case 594: case 0: status = 594; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (value) { case 934: case 96: data = 934; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int output = 50; switch (x) { case 7: output = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (k != 64 || val == 31) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (m < 47 && data > 0) { m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (m) { case 3: while (res > 0) { res--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (m = 0; m < 83; m++) { sum += m; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int sum = 348; if (m != sum) { return 4; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (y = 0; y < 1; y++) { sum += y; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (k <= 447) { k += 55; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (z = 0; z < 136; z++) { for (total = 0; total < 33; total++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (x = 0; x < 157; x++) { for (result = 0; result < 34; result++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (temp = 0; temp < 5; temp++) { switch (val) { case 84: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (k) { case 39: for (val = 0; val < 80; val++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int value = 74; switch (value) { case 69: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (x = 0; x < 378; x += 2) { sum *= x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (j) { j = 87; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (index) { case 898: return 14; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int z = 73; switch (z) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int y = 1; switch (y) { case 78: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (y < 7) { return 4; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (x < 310) { if (data > 30) break; x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (n = 9; n > 0; n--) { total--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int n = 10; switch (n) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int x = 0; while (x < 43) { x++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int x = 45; if (x > 12) { data = 12; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int val = 635; for (value = 0; value < 97; value++) { val--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int val = 0; for (n = 0; n < 7; n++) { val += n; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (y = 0; y < 4; y++) { if (y == 95) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (j = 0; j < 13; j++) { result *= j; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (n == 10) { switch (val) { case 18: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (1) { index++; if (index > 0) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (k) { case 26: total = 0; break; case 83: total = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int z = 89; for (status = 0; status < z; status++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (y = 0; y < 980; y++) { status += y; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int j = 0; while (j < 8) { j++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (1) { y++; if (y > 44) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (k != 91 || res == 100) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (z == 961 || res != 29) { z = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (i) { i--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (m) { case 7: flag = m + 91; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int flag = 28; switch (x) { case 455: flag = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (x) { case 5: val++; case 71: val--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (1) { z++; if (z > 96) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int acc = 87; for (i = 0; i < 12; i++) { acc--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (;x < 5;) { x++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (z = 0; z < 7; z++) { result *= z; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (count = 0; count < 0; count++) { switch (res) { case 96: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (count = 0; count < 387; count++) { result *= count; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (value) { case 70: case 64: status = 70; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (k = 166; k >= 0; k -= 66) { status++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (i = 0; i < 272; i++) { if (i % 2 == 0) continue; data++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (1) { i++; if (i > 23) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (count) { case 21: while (data > 0) { data--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (x) { case 82: res = x + 97; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (index != 3) { res = index + 33; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (i) { case 688: sum++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int sum = 3; for (count = 0; count < 93; count++) { sum--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (index < 998) { if (res > 52) break; index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (n <= 199) { n += 41; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 455: acc++; case 9: acc--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (n < 6) { switch (val) { case 81: n++; break; } }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (temp > 0) { val *= 2; temp--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (count < 585) { if (sum > 35) break; count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (j) { case 7: output = 0; break; case 45: output = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (x > 592) { while (result > 0) { result--; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (count < 558) { for (data = 0; data < 54; data++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (i > 0) { switch (sum) { case 82: break; } i--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int k = 85; switch (k) { case 94: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int j = 175; switch (j) { case 26: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int total = 36; while (k != total) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (m = 59; m >= 0; m -= 31) { status++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (!j) { j = 69; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (z) { case 3: val = z + 87; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (m = 1; m <= 395; m++) { total = total * m; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (i) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (index = 6; index > 0; index--) { res--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (m = 0; m < 707; m++) { switch (flag) { case 100: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (;z < 1;) { z++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int index = 0; if (index == 76) { sum++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (;m < 884;) { m++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (n > 96) { n--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int n = 0; if (n == 73) { status++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (i == 13) { output += 79; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (j < 1) { if (res > 48) break; j++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (i) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (;count < 4;) { count++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (x = 0; x < 11; x++) { switch (status) { case 82: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (z < 276) { total += z; z++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int sum = 0; for (temp = 0; temp < 26; temp++) { sum += temp; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (1) { j++; if (j > 403) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (j = 0; j < 13; j++) { while (result > 0) { result--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int y = 79; switch (y) { case 8: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (index > 10) { while (result > 0) { result--; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (j) { j--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (value <= 222) { value += 57; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (!x) { x = 281; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (n) { case 2: break; default: flag = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (k >= 42) { k -= 16; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int y = 36; while (y > 0) { y--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (temp < 2) { while (total > 0) { total--; } temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (k == 1) { return 76; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (i = 1; i <= 778; i++) { acc = acc * i; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (value) { case 1: result++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (count < 898) { data += count; count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (index = 0; index < 73; index++) { for (sum = 0; sum < 73; sum++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (y >= 95) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (i = 0;;i++) { if (i >= 46) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (i) { i--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (value = 29; value < 12; value += 29) { sum += value; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (z) { case 2: res++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (value == 15) { return 87; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (index = 0; index < 98; index++) { if (index == 33) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int m = 1; switch (m) { case 72: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (y = 14; y < 3; y += 14) { sum += y; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (temp) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (index = 0; index < 121; index++) { switch (output) { case 11: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int y = 205; for (res = 0; res < y; res++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int acc = 9; for (y = 0; y < 10; y++) { acc--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (i = 0; i <= 1; i++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int n = 874; for (total = 0; total < n; total++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (j > 2 && acc < 76) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (n = 0; n < 2; n++) { if (n % 2 == 0) continue; result++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (temp < 966) { if (data > 1) break; temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (i) { i--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int y = 53; switch (y) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (value) { case 56: if (status > 31) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (j) { case 895: for (val = 0; val < 35; val++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (j = 1; j <= 9; j++) { output = output * j; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (z == 516) { return 57; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (y) { case 9: total = 0; break; case 25: total = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (!i) { status = 96; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (k = 0;;k++) { if (k >= 759) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int status = 0; for (j = 0; j < 964; j++) { status += j; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (index > 10) { while (total > 0) { total--; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (i > 10) { for (output = 0; output < 22; output++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (n = 0; n < 430; n++) { result *= n; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (count = 0; count < 690; count++) { if (count == 5) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (k = 1; k > 0; k--) { flag--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (value != 95) { val = value * 52; value++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (y < 4) { if (flag > 47) break; y++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (z) { case 7: return 9; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (n > 749) { val = 15; } else { val = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (i) { case 296: break; default: flag = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (y = 0; y < 8; y++) { if (y % 2 == 0) continue; result++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (j == 217) { return 7; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (value = 0; value < 86; value++) { if (value % 2 == 0) continue; status++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (index) { case 87: return 39; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (value) { case 328: case 90: output = 328; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (j = 0; j < 119; j++) { switch (total) { case 0: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (j) { case 78: output = j + 82; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (index = 0; index < 393; index++) { if (index == 62) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int output = 0; for (y = 0; y < 38; y++) { output += y; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (k = 0; k < 77 && res > 0; k++) { res--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (index < 93) { switch (total) { case 34: index++; break; } }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (x = 64; x < 7; x += 64) { sum += x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int j = 69; for (status = 0; status < j; status++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (y = 44; y < 96; y += 44) { sum += y; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (count) { case 32: total = count + 18; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (x > 75) { flag = 89; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (count < 10) { count++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (x) { case 10: break; default: result = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (temp) { case 1: status = 95; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (k = 290; k > 0; k--) { sum--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (x > 0) { switch (flag) { case 554: break; } x--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (z) { case 4: val++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (x = 0; x < 8 && result > 0; x++) { result--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (m >= 9) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (index) { case 48: result = index + 87; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (z != 81) { acc = z + 100; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (y = 1; y <= 4; y++) { output = output * y; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (x) { case 5: if (acc > 10) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (x == 404) { return 23; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (z) { case 4: status = 9; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int n = 0; if (n == 457) { val++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (value > 0) { total *= 2; value--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (index < 2) { while (acc > 0) { acc--; } index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (value = 0; value < 296; value++) { if (val == 97) { break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (k = 0; k < 7; k++) { if (k == 86) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (1) { n++; if (n > 6) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (x > 421) { output = x * 97; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (n <= 687) { n += 19; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (!i) { i = 865; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (j = 0; j < 30; j++) { for (flag = 0; flag < 49; flag++) {} }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (j < 972) { return 83; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (index >= 1) { index -= 67; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (y) { case 101: if (output > 95) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int res = 66; for (j = 0; j < 82; j++) { res--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (x < 100) { for (flag = 0; flag < 30; flag++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (j > 22 && flag < 79) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (j = 0;;j++) { if (j >= 9) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (temp = 26; temp < 868; temp += 26) { sum += temp; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (index > 1) { index--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (m = 0; m < 574; m++) { output += m; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (index = 0; index < 662; index++) { if (index == 66) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (count) { case 10: for (acc = 0; acc < 32; acc++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (value = 0; value < 23; value++) { result *= value; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (z >= 406) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (value > 1) { for (res = 0; res < 58; res++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (value > 8) { sum = value * 52; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (x > 58) { sum = 5; } else { sum = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int val = 0; for (temp = 0; temp < 94; temp++) { val += temp; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (x = 1; x <= 36; x++) { data = data * x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int data = 5; if (k != data) { return 55; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (j) { case 5: res++; case 1: res--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (index) { case 451: output = index + 41; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (x) { case 10: sum++; case 78: sum--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "flag = (x > 48) ? 56 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (temp < 4) { temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (j < 3) { if (val > 41) break; j++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (y) { case 10: while (result > 0) { result--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (value) { case 9: result = 0; break; case 3: result = 1; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (m = 6; m > 0; m--) { res--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int i = 516; for (flag = 0; flag < i; flag++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int data = 97; while (j != data) { j++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (i) { case 78: break; default: status = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (n <= 3) { result--; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (y < 85) { for (status = 0; status < 88; status++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (count > 36) { count--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (m) { case 5: while (flag > 0) { flag--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (x = 79; x >= 0; x -= 86) { flag++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (1) { value++; if (value > 36) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (k) { k--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (i <= 951) { status--; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "sum = (n > 78) ? 98 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "total = (index > 5) ? 72 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (count > 0) { flag *= 2; count--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (temp = 0; temp < 35; temp++) { switch (data) { case 51: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (temp < 10) { status += temp; temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (i > 929 && sum < 91) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (z) { case 906: data = z + 38; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (i) { case 4: return 35; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (!index) { index = 3; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int m = 5; while (m > 0) { m--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (value) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int acc = 6; if (y != acc) { return 60; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (index) { case 277: break; case 86: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (value) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (count) { case 3: acc = 45; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int j = 305; switch (j) { case 18: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (x > 0) { val *= 2; x--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (k > 7) { k--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (n == 3) { val += 13; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (i == 73) { switch (sum) { case 13: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (!j) { j = 74; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (j > 0) { switch (val) { case 128: break; } j--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (z == 4) { switch (data) { case 70: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int total = 22; if (n != total) { return 31; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (k = 1; k <= 814; k++) { total = total * k; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (y) { case 0: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (!j) { j = 0; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (m > 0) { switch (acc) { case 9: break; } m--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (m < 62) { flag += m; m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (!j) { j = 14; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (n > 48) { data = 34; } else { data = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (temp > 0) { data *= 2; temp--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (j = 0; j < 843; j++) { if (j % 2 == 0) continue; val++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (m = 0;;m++) { if (m >= 15) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (n = 0; n < 654 && res > 0; n++) { res--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (!m) { m = 1; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (z > 316 && total < 84) { return 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (z) { case 793: while (res > 0) { res--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (count) { case 3: break; case 61: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (i) { case 2: return 69; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (index) { case 9: while (data > 0) { data--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (n == 799) { switch (data) { case 0: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (m = 7; m >= 0; m -= 1) { total++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (count < 2) { for (data = 0; data < 50; data++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (;count < 94;) { count++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (m < 864) { return 38; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (k = 0; k < 733; k++) { result *= k; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (i) { case 5: break; case 4: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int sum = 9; while (k != sum) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (n) { case 852: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int sum = 0; switch (n) { case 27: sum = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (value != 1) { sum = value * 97; value++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (count == 243) { acc += 14; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (count) { case 37: for (output = 0; output < 71; output++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (n = 0; n < 10; n++) { result *= n; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "if (value > 736) { while (res > 0) { res--; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (k > 84) { output = 82; } else { output = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (temp > 536) { val = temp * 22; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (m = 0; m < 50; m += 2) { val *= m; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (n < 69) { val += n; n++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (index) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (temp < 46) { switch (acc) { case 78: temp++; break; } }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (n == 57) { return 6; } else { return -1; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int result = 69; while (n != result) { n++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (z) { case 1: flag++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (temp) { case 604: break; default: flag = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (k) { case 10: break; case 83: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int n = 0; if (n == 717) { flag++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (n = 705; n >= 0; n -= 90) { res++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int z = 562; if (z > 25) { res = 25; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (x = 0; x < 795; x++) { result *= x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (n) { case 207: return 87; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (k) { case 926: break; default: data = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (k != 49 || output == 67) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (n < 761) { for (val = 0; val < 66; val++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (!i) { total = 73; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (y > 8) { y--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int val = 95; switch (count) { case 80: val = 0; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (y < 4) { acc += y; y++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (j = 0; j < 29 && result > 0; j++) { result--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (count) { case 66: while (acc > 0) { acc--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (value = 0; value < 7; value++) { while (res > 0) { res--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (index) { case 57: if (flag > 16) { break; } }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int count = 8; if (count > 6) { status = 6; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (z = 0;;z++) { if (z >= 859) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (x) { case 8: data = 10; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (y < 8) { flag += y; y++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (m = 67; m < 8; m += 67) { sum += m; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int data = 27; while (n != data) { n++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (value) { case 5: data *= 2; break; case 84: data /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int k = 276; while (k > 0) { k--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int m = 95; switch (m) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (m) { case 418: for (result = 0; result < 68; result++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (z) { case 239: status = z + 76; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (!count) { data = 67; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (count >= 81) { count -= 16; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (1) { k++; if (k > 77) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (count) { case 563: total = 27; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (y) { case 893: val *= 2; break; case 56: val /= 2; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (temp > 52) { for (status = 0; status < 20; status++) {} }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (n > 5) { n--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (temp < 521) { while (sum > 0) { sum--; } temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (x) { case 435: while (output > 0) { output--; } break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (!m) { output = 9; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int k = 0; if (k == 50) { flag++; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (n > 0) { data *= 2; n--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (value) { value = 132; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "switch (k) { case 10: sum++; case 74: sum--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int y = 24; switch (y) { case 52: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (index) { case 928: val = index + 40; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (index = 0; index < 5; index++) { result *= index; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (y) { default: return 0; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (count = 1; count <= 325; count++) { total = total * count; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "sum = (n > 3) ? 98 : 0;",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (n = 0; n < 129; n += 2) { output *= n; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (!m) { m = 87; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int value = 19; for (sum = 0; sum < value; sum++) {}",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (n) { case 30: total++; case 24: total--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (z = 28; z > 0; z--) { total--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (index < 38) { if (res > 45) break; index++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 4: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (z >= 435) { break; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int val = 8; for (temp = 0; temp < 45; temp++) { val--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int res = 0; for (z = 0; z < 631; z++) { res += z; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (n) { case 19: return 72; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (y) { case 6: output++; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (m) { m--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (x) { case 8: result++; case 63: result--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (x) { case 7: for (val = 0; val < 83; val++) {} break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "while (x < 0) { for (acc = 0; acc < 26; acc++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (m > 587) { if (total < 76) { return 1; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "int acc = 77; while (temp != acc) { temp++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int k = 10; switch (k) { case 91: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (index) { case 685: status = index + 42; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (n > 3) { flag = 35; } else { flag = 0; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (j == 8) { switch (output) { case 30: break; } }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (value <= 44) { val--; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (z = 0; z < 66; z++) { switch (sum) { case 67: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (value = 0; value < 6; value++) { if (total == 39) { break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (value) { case 837: break; default: val = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (temp) { case 10: return 8; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int z = 15; switch (z) { default: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (x = 0; x < 390; x++) { result *= x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (k != 50 || data == 59) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "if (n == 0) { output += 13; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "if (m > 204) { flag = m * 85; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (i < 36) { if (val > 27) break; i++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (temp < 4) { for (data = 0; data < 85; data++) {} }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (z = 0; z < 199; z++) { switch (val) { case 61: break; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (n) { case 93: break; case 55: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (j) { case 10: total++; case 1: total--; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int j = 6; if (j > 41) { result = 41; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "for (x = 0; x < 403; x++) { flag += x; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (i) { case 66: return 78; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (k = 0;;k++) { if (k >= 880) break; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "int j = 775; while (j > 0) { j--; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int x = 5; switch (x) { case 49: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "int res = 999; if (k != res) { return 64; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (j != 727 || flag == 76) { j++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (index = 105; index > 0; index--) { flag--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (y < 2) { y++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (n) { case 389: return 64; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (n = 10; n > 0; n--) { val--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "while (m < 61) { acc += m; m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "switch (temp) { case 33: res = 49; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (k = 0; k < 0; k++) { while (total > 0) { total--; } }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (z) { case 55: case 67: res = 55; break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "if (!m) { sum = 6; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (1) { j++; if (j > 225) break; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int data = 34; while (k != data) { k++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "while (m != 87) { val = m * 67; m++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "int index = 87; if (index > 63) { data = 63; }",
+    "label": "IF_STATEMENT"
+  },
+  {
+    "code": "while (i < 317) { if (total > 59) break; i++; }",
+    "label": "WHILE_LOOP"
+  },
+  {
+    "code": "for (x = 0; x > 0; x--) { acc--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "for (y = 33; y >= 0; y -= 98) { val++; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "switch (z) { case 844: break; case 1: break; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (index) { case 736: break; default: sum = -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "switch (temp) { case 186: return 79; default: return -1; }",
+    "label": "SWITCH_CASE"
+  },
+  {
+    "code": "for (j = 0; j < 34 && res > 0; j++) { res--; }",
+    "label": "FOR_LOOP"
+  },
+  {
+    "code": "total = (count > 847) ? 97 : 0;",
+    "label": "IF_STATEMENT"
+  }
+]
